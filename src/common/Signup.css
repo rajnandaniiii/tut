@@ -1,0 +1,16 @@
+.wrapper
+{
+position: relative;
+width: 420px;
+height: 450px;
+background: seagreen;
+border-radius: 10px;
+color: #fff;
+}
+.wrapper .main{
+    
+}
+.form-group
+{
+padding: 20px;
+}
